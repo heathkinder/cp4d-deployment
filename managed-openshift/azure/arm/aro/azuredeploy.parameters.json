@@ -17,9 +17,9 @@
         "pullSecret": {
             "reference": {
               "keyVault": {
-                  "id": "/subscriptions/<subscription id>/resourceGroups/<resource group name>/providers/Microsoft.KeyVault/vaults/<vault name>"
+                  "id": "/subscriptions/752c360f-4c31-430f-9cae-a7ddd379a883/resourceGroups/Admin/providers/Microsoft.KeyVault/vaults/adminSEAUS"
               },
-              "secretName": "pullsecret"
+              "secretName": "openshiftsecret"
           }
         },
         "aadClientId": {
